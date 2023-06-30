@@ -1,0 +1,142 @@
+ 
+{
+    
+    "testimonials" : [
+        {
+                "id": 1,
+                "name": "Thotyelwa Mpongwana",
+                "image": "https://i.postimg.cc/KjnTKFVD/Thotyelwa-Mpongwana.jpg",
+                "description": "Aphelele is an exceptional learner with a keen eye for detail. He is also an excellent team player who always goes above and beyond to support his fellow students. His determination and willingness to collaborate makes him a valuable asset to any project team. I have no doubt that he will continue to excel in his career and make meaningful contributions to the field of technology."
+            },
+            {
+                "id": 2,
+                "name": "Eighton-Lee Paulse",
+                "image" : "https://i.postimg.cc/RZ6QLrjK/Eighton-Lee-Paulse.jpg",
+                "description": "Aphelele is a very good colleague, with a positive attitude towards learning. He does not withhold information and is an excellent team player. He has good communication and critical thinking skills. I believe all these qualities make him an assert for any team."
+            },
+            {
+                "id": 3,
+                "name" : "Thabang Kganana",
+                "image": "https://i.postimg.cc/nL8mpXMw/Thabang-Kganana.jpg",
+                "description": "I enjoy working with Aphelele because he is a great team player and very welcoming. He is always willing to assist and go and extra mile with tasks and work assigned."
+            },
+            {
+                "id": 4,
+                "name" : "Kamva Sikalana",
+                "image" : "https://i.postimg.cc/jdcXvQgQ/Kamva.jpg",
+                "description": "Aphelele is proficient in HTML & CSS. He is a reliable and good team player in group related projects, and has a hunger to learn more which makes him a valuable asset for any company that hires him."
+            },
+            {
+                "id": 5,
+                "name" : "Seth Kallis",
+                "image": "https://i.postimg.cc/8zPWQv5m/image.jpg",
+                "description": "Aphelele is dedicated, hard working and a team player. He works well with his peers and performs well on his projects. He has a good understanding of web development and would be a valuable addition to any team that is lucky enough to have him."
+            }
+],
+    "projects" : [
+            {
+                "id": 1,
+                "title": "BMI Calculator",
+                "image": "https://i.postimg.cc/wTs4R7dz/image.png",
+                "netlify": "https://cerulean-boba-01ba88.netlify.app",
+                "github" : "https://github.com/Aphelele2/bmiCalculator.git"
+        },
+        {
+                "id": 2,
+                "title": "Temperature Converter",
+                "image": "https://i.postimg.cc/JhqWKR40/175789679-1c94f161-bcf6-4f29-87f0-c7eb03b2104d.png",
+                "netlify": "https://curious-buttercream-5fd436.netlify.app",
+                "github" : "https://github.com/Aphelele2/tempConverter.git"
+        },
+        {
+                "id": 3,
+                "title": "Calculator",
+                "image": "https://i.postimg.cc/FzZ4CmxD/91433b868ad67ee9e2a087cca75de95c.png",
+                "netlify": "https://cerulean-horse-5b5777.netlify.app",
+                "github" : "https://github.com/Aphelele2/calculator.git"
+        },
+        {
+                "id": 4,
+                "title": "E-Commerce website",
+                "image": "https://www.formget.com/wp-content/uploads/2018/04/coffee-shop-wordpress-themes.png",
+                "netlify": "https://voluble-kataifi-f07386.netlify.app",
+                "github" : "https://github.com/Aphelele2/javascriptEcommerce.git"
+        },
+        {
+                "id": 5,
+                "title": "To-do App",
+                "image": "https://i.postimg.cc/Y0hSFv7Q/o96lsrld21tk232kidu4.jpg",
+                "netlify": "keen-rabanadas-c20855.netlify.app",
+                "github" : "https://github.com/Aphelele2/todolist2.git"
+        },
+        {
+                "id": 6,
+                "title": "Bootstrap portfolio",
+                "image": "https://i.postimg.cc/MZD4M930/How-to-make-portfolio-for-design-admission.jpg",
+                "netlify": "https://papaya-parfait-a9c054.netlify.app",
+                "github" : "https://github.com/Aphelele2/bootstrap_portfolio.git"
+        }
+],
+    "skills" : [
+        {
+                "id": 1,
+                "title": "HTML",
+                "description" : "text"
+        },
+        {
+                "id": 2,
+                "title": "CSS",
+                "description" : "text"
+        },
+        {
+                "id": 3,
+                "title": "Bootstrap",
+                "description" : "text"
+        },
+        {
+                "id": 4,
+                "title": "Javascript",
+                "description" : "text"
+        },
+        {
+                "id": 5,
+                "title": "Vuejs",
+                "description" : "text"
+        },
+        {
+                "id": 6,
+                "title": "SQL",
+                "description" : "text"
+    }
+    ],
+        "Education" : [
+            {
+                "id": 1,
+                "title": "Life Choices Academy",
+                "year": "2023",
+                "description" : "Started school at Life Choices Academy, learning about web development."
+            },
+            {
+                "id": 2,
+                "title": "Centre Of Science And Technology",
+                "year": "2015-2019",
+                "description" : "Started high school at the Centre Of Science And Technonoly and later graduated in 2019."
+            }
+    ],
+        "Experience" : [
+            {
+                "id": 1,
+                "title": "Sportscene",
+                "year": "2022-2023",
+                "description" : "Worked at Sportscene Promenade as a sales associate."
+            },
+            {
+                "id": 2,
+                "title": "Staffroom Software",
+                "year": "2021",
+                "description" : "Volunteered at staffroom software as a product support consultant."
+            }
+            
+            
+    ]
+}
