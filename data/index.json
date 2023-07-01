@@ -31,6 +31,12 @@
                 "name" : "Seth Kallis",
                 "image": "https://i.postimg.cc/8zPWQv5m/image.jpg",
                 "description": "Aphelele is dedicated, hard working and a team player. He works well with his peers and performs well on his projects. He has a good understanding of web development and would be a valuable addition to any team that is lucky enough to have him."
+            },
+            {
+                "id": 6,
+                "name" : "Siyamazwa Zweni",
+                "image": "https://i.postimg.cc/RFBGJb8k/C12-C2-Siyamanga-Zweni-2.jpg",
+                "description": "Aphelele is an exceptional learner with a keen eye for detail. He is also an excellent team player who always goes above and beyond to help where needed. His determination, positive attitude, and passion for technology makes working with him easy. His attention to details makes working with him an incredible experience. I have no doubt that he would be a valuable asset to your company."
             }
 ],
     "projects" : [
@@ -38,6 +44,7 @@
                 "id": 1,
                 "title": "BMI Calculator",
                 "image": "https://i.postimg.cc/wTs4R7dz/image.png",
+                "description" : "Introducing my personal BMI Calculator app - a sleek and efficient tool that showcases my JavaScript skills and passion for creating practical applications. This app allows users to calculate their Body Mass Index (BMI) effortlessly. With a clean and intuitive user interface, users can input their height and weight, and the app instantly calculates their BMI value. The result is displayed along with a corresponding category, providing valuable insights into their health status. By incorporating error handling and input validation, the app ensures accurate calculations. Additionally, the app is designed to be responsive and accessible, adapting seamlessly to different devices and meeting accessibility standards. With the BMI Calculator app in my portfolio, I showcase my ability to create user-friendly and impactful applications that enhance health awareness and encourage a balanced lifestyle.",
                 "netlify": "https://cerulean-boba-01ba88.netlify.app",
                 "github" : "https://github.com/Aphelele2/bmiCalculator.git"
         },
@@ -45,6 +52,7 @@
                 "id": 2,
                 "title": "Temperature Converter",
                 "image": "https://i.postimg.cc/JhqWKR40/175789679-1c94f161-bcf6-4f29-87f0-c7eb03b2104d.png",
+                "description": "Introducing my personal Temperature Converter app - a dynamic demonstration of my JavaScript skills and dedication to crafting useful applications. This app offers a seamless solution for converting temperatures between Celsius and Fahrenheit scales. With an elegant and intuitive user interface, users can input a temperature value and select the desired unit of measurement. The app then swiftly converts the temperature and displays the converted values in real-time. Whether you're a traveler, a student, or simply curious about temperature conversions, this app provides a quick and reliable tool at your fingertips. With meticulous attention to detail, I have ensured that the app handles different input formats and gracefully handles errors. By showcasing the Temperature Converter app in my portfolio, I highlight my ability to develop user-friendly and practical applications that streamline everyday tasks.",
                 "netlify": "https://curious-buttercream-5fd436.netlify.app",
                 "github" : "https://github.com/Aphelele2/tempConverter.git"
         },
@@ -52,6 +60,7 @@
                 "id": 3,
                 "title": "Calculator",
                 "image": "https://i.postimg.cc/FzZ4CmxD/91433b868ad67ee9e2a087cca75de95c.png",
+                "description" : "Introducing my personal Calculator app - a testament to my JavaScript expertise and passion for building functional applications. This app offers a robust and versatile calculator experience, right at your fingertips. With a sleek and intuitive user interface, users can perform basic arithmetic operations such as addition, subtraction, multiplication, and division, as well as more advanced functions like exponentiation and square root calculations. The app accurately computes and displays the results in real-time, ensuring precision and reliability. Whether you're a student, professional, or anyone in need of quick calculations, this app is designed to be your go-to tool. It incorporates error handling to prevent invalid inputs and provides a clear and concise interface for effortless calculations. By including the Calculator app in my portfolio, I showcase my ability to develop efficient and user-friendly applications that enhance productivity and problem-solving capabilities.",
                 "netlify": "https://cerulean-horse-5b5777.netlify.app",
                 "github" : "https://github.com/Aphelele2/calculator.git"
         },
@@ -59,6 +68,7 @@
                 "id": 4,
                 "title": "E-Commerce website",
                 "image": "https://www.formget.com/wp-content/uploads/2018/04/coffee-shop-wordpress-themes.png",
+                "description" : "Introducing my personal Ecommerce Website - a showcase of my web development skills and dedication to creating immersive online shopping experiences. This dynamic website offers a seamless platform for users to explore a wide range of products, make purchases, and engage in secure transactions. With an attractive user interface, visitors can effortlessly browse through various product categories and add items to their shopping cart. With responsive design, the website seamlessly adapts to different devices, providing a consistent and enjoyable shopping experience on desktops, tablets, and mobile phones. The Ecommerce Website enhances user satisfaction and encourages repeat visits. With attention to performance optimization and reliable hosting, the website ensures fast loading times and uninterrupted shopping experiences. By featuring the Ecommerce Website in my portfolio, I demonstrate my ability to develop user-centric and visually appealing web applications that cater to the needs of modern-day consumers.",
                 "netlify": "https://voluble-kataifi-f07386.netlify.app",
                 "github" : "https://github.com/Aphelele2/javascriptEcommerce.git"
         },
@@ -66,6 +76,7 @@
                 "id": 5,
                 "title": "To-do App",
                 "image": "https://i.postimg.cc/Y0hSFv7Q/o96lsrld21tk232kidu4.jpg",
+                "description" : "Introducing my Simple Todo App - a minimalistic and efficient task management solution. With a clean and intuitive user interface, this app allows you to effortlessly organize your daily tasks. Using the app is straightforward - simply enter your tasks in the input field and click 'Add' to add them to the list. You can also sort the tasks alphabetically by clicking the 'Sort' button. Each task is displayed with its name, along with buttons for editing and deleting. You can easily update a task by clicking the 'Edit' button and entering a new name. To remove a task, simply click the 'Delete' button. For added convenience, the app includes checkboxes for each task. By checking or unchecking a box, you can mark tasks as complete or incomplete. The app remembers your tasks even after closing the browser, thanks to localStorage integration. Stay organized and manage your tasks effortlessly with the Simple Todo App. It's the perfect tool to enhance your productivity and keep track of your daily responsibilities.",
                 "netlify": "keen-rabanadas-c20855.netlify.app",
                 "github" : "https://github.com/Aphelele2/todolist2.git"
         },
@@ -73,6 +84,7 @@
                 "id": 6,
                 "title": "Bootstrap portfolio",
                 "image": "https://i.postimg.cc/MZD4M930/How-to-make-portfolio-for-design-admission.jpg",
+                "description" : "Introducing my first school project - A Bootstrap Portfolio that showcases my skills and achievements. This project was designed to demonstrate my understanding of web development and showcase my creativity. With a clean and modern design, my Bootstrap Portfolio offers a visually appealing and user-friendly experience. The responsive layout ensures that the website looks great on any device, from desktops to mobile devices. The portfolio features different pages, including an 'About Me' page where visitors can learn more about my education and interests. It also includes a project page where I highlight two of my notable projects. Each project is presented with engaging visuals. Furthermore, the portfolio showcases my skills and technical proficiencies. This section provides an overview of the programming languages, frameworks, and tools that I have experience with. It gives potential clients or employers insight into my capabilities and areas of expertise. To facilitate communication and collaboration, the portfolio includes a contact form. Visitors can easily reach out to me for inquiries, collaboration opportunities, or any other questions they may have. As my first school project, this Bootstrap Portfolio demonstrates my ability to create a visually appealing and functional website. It reflects my dedication to learning and improving my web development skills. Take a look at my Bootstrap Portfolio and explore my projects and achievements. It's an exciting glimpse into my journey as a web developer and showcases the progress I have made.",
                 "netlify": "https://papaya-parfait-a9c054.netlify.app",
                 "github" : "https://github.com/Aphelele2/bootstrap_portfolio.git"
         }
@@ -81,32 +93,38 @@
         {
                 "id": 1,
                 "title": "HTML",
-                "description" : "text"
+                "image": "https://i.postimg.cc/G2mNHMKd/1200px-HTML5-logo-and-wordmark-svg.png",
+                "description" : "I have a solid foundation in HTML despite having only three months of experience. During this period, I have gained a good understanding of HTML syntax, basic tags, and the structure of web pages. With my three months of HTML experience, I am able to create well-structured and properly formatted web content. I can utilize essential HTML elements such as headings, paragraphs, lists, images, links, and basic form elements. While my HTML skills are still developing, I am eager to continue learning and expanding my knowledge in web development. I am committed to staying up to date with the latest HTML standards and best practices to enhance the quality and functionality of the websites I create.With my solid foundation in HTML and a passion for continuous learning, I am excited to contribute to web development projects and further refine my skills in HTML and related technologies."
         },
         {
                 "id": 2,
                 "title": "CSS",
-                "description" : "text"
+                "image": "https://i.postimg.cc/pLpLFHW1/png-clipart-web-development-html-cascading-style-sheets-css3-bootstrap-minimalist-resume-blue-angle.png",
+                "description" : "I have gained a solid understanding of CSS within a limited period of time. Despite my relatively short experience, I have been able to grasp the core concepts and principles of CSS. With CSS, I can apply styles and visually enhance web pages created with HTML. In the span of a few months, I have become proficient in using CSS to manipulate the layout, colors, typography, and overall presentation of web content. My CSS skills allow me to create visually appealing designs and implement responsive layouts that adapt to different screen sizes. I can leverage CSS selectors, properties, and values to target specific elements and apply custom styling to achieve the desired look and feel. While my CSS expertise continues to grow, I am dedicated to staying updated with emerging trends and best practices in web design. I strive to improve my skills in CSS frameworks, preprocessors, and modern techniques to elevate the quality of the websites I develop. In summary, despite my limited three-month experience, I have acquired a solid understanding of CSS. I can effectively apply styles to HTML elements, create visually appealing designs, and implement responsive layouts. With a commitment to ongoing learning, I aim to further enhance my CSS skills and deliver compelling and engaging web experiences."
         },
         {
                 "id": 3,
                 "title": "Bootstrap",
-                "description" : "text"
+                "image": "https://i.postimg.cc/BvD3sZpH/1200px-Bootstrap-logo-svg.png",
+                "description" : "I have quickly become proficient in the well-known front-end framework Bootstrap. Despite having only a few months of experience, I have developed a strong knowledge of Bootstrap's capabilities and how to use its features to create websites that are both responsive and aesthetically pleasing. I've gotten good at using Bootstrap's vast library of CSS classes and components over my little time with it. I can use Bootstrap's responsive grid technology to make designs that are adaptable and suitable for mobile devices. Additionally, I can leverage its navigation bars, buttons, forms, modals, and other UI elements to improve a website's overall aesthetics and user experience. I'm determined to keep up with developments even as I continue to deepen my understanding of Bootstrap."
         },
         {
                 "id": 4,
                 "title": "Javascript",
-                "description" : "text"
+                "image": "https://i.postimg.cc/NMrfLqtv/react-logo-javascript-redux-vuejs-angular-angularjs-expressjs-front-and-back-ends-png-clipart-thumbn.jpg",
+                "description" : "After a few months of committed study and practice, I have accumulated significant JavaScript experience. I can give websites and web apps more functionality, interactivity, and dynamic behavior thanks to JavaScript, a flexible programming language. My little knowledge of JavaScript has allowed me to develop a strong understanding of the language's key ideas, grammar, and basic programming concepts. Working with variables, data types, operators, loops, conditionals, functions, and objects with JavaScript gives me a sense of security. I can build interactive elements for websites, manage user input, work with the DOM, and send asynchronous queries to APIs all with JavaScript. I can use fundamental JavaScript libraries and frameworks, such as Vue.js, to make development chores easier because I am familiar with them. While my JavaScript skills continue to evolve, I am dedicated to expanding my knowledge and exploring more advanced topics such as ES6 features, modular programming, and working with popular frameworks like React or jQuery. This allows me to develop more complex and robust web applications."
         },
         {
                 "id": 5,
                 "title": "Vuejs",
-                "description" : "text"
+                "image": "https://i.postimg.cc/t4Ldv653/1200px-Vue-js-Logo-2-svg.png",
+                "description" : "I have experience with Vue.js, a well-known JavaScript framework. I learned about it and put it to use over the course of a few months. A progressive framework called Vue.js makes it simple for me to create interactive and dynamic user interfaces. I've learned a lot about the fundamental ideas behind Vue.js during my little time with it, including components, directives, data binding, and the virtual DOM. I'm able to construct and manage Vue components with ease, specify their behavior and design, and include them into a wider application structure without any issues. I can efficiently create responsive and interactive web applications with Vue.js. To update and synchronize data between components, I may use Vue's reactivity system, which will result in a streamlined and responsive user experience. In summary, despite my limited experience of a few months, I have gained a solid understanding of Vue.js and its core concepts. I can effectively leverage Vue.js to build interactive and responsive user interfaces, manage component-based architectures, and handle data binding and event handling. With a dedication to continuous learning, I strive to further enhance my Vue.js skills and explore more advanced concepts to develop sophisticated web applications."
         },
         {
                 "id": 6,
                 "title": "SQL",
-                "description" : "text"
+                "image": "https://i.postimg.cc/cHy58H5m/pngtree-sql-file-document-icon-png-image-920263.jpg",
+                "description" : "I have a basic understanding of SQL that I acquired during my high school years through Delphi programming. While my experience with SQL is limited to the fundamentals, I have grasped the core concepts necessary for database management and manipulation. With my knowledge of SQL basics, I can effectively perform essential database operations, such as creating tables, inserting data, retrieving information with SELECT queries, updating records, and deleting data. I am familiar with common SQL statements, such as SELECT, INSERT, UPDATE, DELETE, and JOIN, which allow me to interact with relational databases. Using SQL, I can design and execute queries to extract specific data from databases, apply filters and sorting criteria, and aggregate information using functions like COUNT, SUM, AVG, and GROUP BY. I am also proficient in using basic clauses like WHERE and ORDER BY to refine query results. While my SQL skills are in their early stages, I am eager to expand my knowledge and tackle more advanced topics. This includes learning about advanced querying techniques, data modeling, normalization, database optimization, and working with more complex SQL statements. With my foundational understanding of SQL, I am equipped to handle basic database management tasks and work with relational databases. I am committed to further developing my SQL skills to become proficient in designing and optimizing efficient database solutions. In summary, my experience with SQL is rooted in the basics learned through Delphi programming during my high school education. I possess the necessary skills to perform common database operations, construct queries, and retrieve data using SQL. I look forward to expanding my SQL knowledge and exploring more advanced concepts in database management and optimization."
     }
     ],
         "Education" : [
@@ -120,7 +138,7 @@
                 "id": 2,
                 "title": "Centre Of Science And Technology",
                 "year": "2015-2019",
-                "description" : "Started high school at the Centre Of Science And Technonoly and later graduated in 2019."
+                "description" : "Started high school at the Centre Of Science And Technology and later graduated in 2019."
             }
     ],
         "Experience" : [
