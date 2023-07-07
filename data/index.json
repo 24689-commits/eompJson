@@ -65,7 +65,7 @@
         {
                 "id": 3,
                 "title": "Calculator",
-                "image": "https://i.postimg.cc/yxbhxm6c/551-how-to-see-calculator-history-iphone.jpg",
+                "image": "https://i.postimg.cc/QxFqmnxF/1200x600wa.png",
                 "description" : "Introducing my personal Calculator app - a testament to my JavaScript expertise and passion for building functional applications. This app offers a robust and versatile calculator experience, right at your fingertips. With a sleek and intuitive user interface, users can perform basic arithmetic operations such as addition, subtraction, multiplication, and division, as well as more advanced functions like exponentiation and square root calculations. The app accurately computes and displays the results in real-time, ensuring precision and reliability. Whether you're a student, professional, or anyone in need of quick calculations, this app is designed to be your go-to tool. It incorporates error handling to prevent invalid inputs and provides a clear and concise interface for effortless calculations. By including the Calculator app in my portfolio, I showcase my ability to develop efficient and user-friendly applications that enhance productivity and problem-solving capabilities.",
                 "netlify": "https://cerulean-horse-5b5777.netlify.app",
                 "github" : "https://github.com/Aphelele2/calculator.git"
