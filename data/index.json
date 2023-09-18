@@ -49,7 +49,7 @@
             {
                 "id": 1,
                 "title": "BMI Calculator",
-                "image": "https://i.postimg.cc/BvBvMJKV/maxresdefault.jpg",
+                "image": "https://i.postimg.cc/xjzf91Q2/a71afc4425785506e03078b742c6b64e.jpg",
                 "description" : "Introducing my personal BMI Calculator app - a sleek and efficient tool that showcases my JavaScript skills and passion for creating practical applications. This app allows users to calculate their Body Mass Index (BMI) effortlessly. With a clean and intuitive user interface, users can input their height and weight, and the app instantly calculates their BMI value. The result is displayed along with a corresponding category, providing valuable insights into their health status. By incorporating error handling and input validation, the app ensures accurate calculations. Additionally, the app is designed to be responsive and accessible, adapting seamlessly to different devices and meeting accessibility standards. With the BMI Calculator app in my portfolio, I showcase my ability to create user-friendly and impactful applications that enhance health awareness and encourage a balanced lifestyle.",
                 "netlify": "https://cerulean-boba-01ba88.netlify.app",
                 "github" : "https://github.com/Aphelele2/bmiCalculator.git"
@@ -57,7 +57,7 @@
         {
                 "id": 2,
                 "title": "Temperature Converter",
-                "image": "https://i.postimg.cc/MTPtfMz0/image.webp",
+                "image": "https://i.postimg.cc/XvBYvTDZ/image.png",
                 "description": "Introducing my personal Temperature Converter app - a dynamic demonstration of my JavaScript skills and dedication to crafting useful applications. This app offers a seamless solution for converting temperatures between Celsius and Fahrenheit scales. With an elegant and intuitive user interface, users can input a temperature value and select the desired unit of measurement. The app then swiftly converts the temperature and displays the converted values in real-time. Whether you're a traveler, a student, or simply curious about temperature conversions, this app provides a quick and reliable tool at your fingertips. With meticulous attention to detail, I have ensured that the app handles different input formats and gracefully handles errors. By showcasing the Temperature Converter app in my portfolio, I highlight my ability to develop user-friendly and practical applications that streamline everyday tasks.",
                 "netlify": "https://curious-buttercream-5fd436.netlify.app",
                 "github" : "https://github.com/Aphelele2/tempConverter.git"
@@ -65,7 +65,7 @@
         {
                 "id": 3,
                 "title": "Calculator",
-                "image": "https://i.postimg.cc/QxFqmnxF/1200x600wa.png",
+                "image": "https://i.postimg.cc/Gm6NJNqn/a5f0487b4aaa063bcf0e662bcd4e69b7.jpg",
                 "description" : "Introducing my personal Calculator app - a testament to my JavaScript expertise and passion for building functional applications. This app offers a robust and versatile calculator experience, right at your fingertips. With a sleek and intuitive user interface, users can perform basic arithmetic operations such as addition, subtraction, multiplication, and division, as well as more advanced functions like exponentiation and square root calculations. The app accurately computes and displays the results in real-time, ensuring precision and reliability. Whether you're a student, professional, or anyone in need of quick calculations, this app is designed to be your go-to tool. It incorporates error handling to prevent invalid inputs and provides a clear and concise interface for effortless calculations. By including the Calculator app in my portfolio, I showcase my ability to develop efficient and user-friendly applications that enhance productivity and problem-solving capabilities.",
                 "netlify": "https://cerulean-horse-5b5777.netlify.app",
                 "github" : "https://github.com/Aphelele2/calculator.git"
@@ -81,7 +81,7 @@
         {
                 "id": 5,
                 "title": "To-do App",
-                "image": "https://i.postimg.cc/Y0hSFv7Q/o96lsrld21tk232kidu4.jpg",
+                "image": "https://i.postimg.cc/zfzjWYgf/to-do-list-apps.png",
                 "description" : "Introducing my Simple Todo App - a minimalistic and efficient task management solution. With a clean and intuitive user interface, this app allows you to effortlessly organize your daily tasks. Using the app is straightforward - simply enter your tasks in the input field and click 'Add' to add them to the list. You can also sort the tasks alphabetically by clicking the 'Sort' button. Each task is displayed with its name, along with buttons for editing and deleting. You can easily update a task by clicking the 'Edit' button and entering a new name. To remove a task, simply click the 'Delete' button. For added convenience, the app includes checkboxes for each task. By checking or unchecking a box, you can mark tasks as complete or incomplete. The app remembers your tasks even after closing the browser, thanks to localStorage integration. Stay organized and manage your tasks effortlessly with the Simple Todo App. It's the perfect tool to enhance your productivity and keep track of your daily responsibilities.",
                 "netlify": "https://keen-rabanadas-c20855.netlify.app",
                 "github" : "https://github.com/Aphelele2/todolist2.git"
@@ -89,7 +89,7 @@
         {
                 "id": 6,
                 "title": "Bootstrap portfolio",
-                "image": "https://i.postimg.cc/MZD4M930/How-to-make-portfolio-for-design-admission.jpg",
+                "image": "https://i.postimg.cc/MTCCDGxw/394-3941580-portfolio-circle-hd-png-download.jpg",
                 "description" : "Introducing my first school project - A Bootstrap Portfolio that showcases my skills and achievements. This project was designed to demonstrate my understanding of web development and showcase my creativity. With a clean and modern design, my Bootstrap Portfolio offers a visually appealing and user-friendly experience. The responsive layout ensures that the website looks great on any device, from desktops to mobile devices. The portfolio features different pages, including an 'About Me' page where visitors can learn more about my education and interests. It also includes a project page where I highlight two of my notable projects. Each project is presented with engaging visuals. Furthermore, the portfolio showcases my skills and technical proficiencies. This section provides an overview of the programming languages, frameworks, and tools that I have experience with. It gives potential clients or employers insight into my capabilities and areas of expertise. To facilitate communication and collaboration, the portfolio includes a contact form. Visitors can easily reach out to me for inquiries, collaboration opportunities, or any other questions they may have. As my first school project, this Bootstrap Portfolio demonstrates my ability to create a visually appealing and functional website. It reflects my dedication to learning and improving my web development skills. Take a look at my Bootstrap Portfolio and explore my projects and achievements. It's an exciting glimpse into my journey as a web developer and showcases the progress I have made.",
                 "netlify": "https://papaya-parfait-a9c054.netlify.app",
                 "github" : "https://github.com/Aphelele2/bootstrap_portfolio.git"
