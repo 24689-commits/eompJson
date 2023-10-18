@@ -107,7 +107,7 @@
                 "title": "The Knowledge Hub",
                 "image": "https://i.postimg.cc/y6FLq0KB/5-Education-friendly-Impact-of-digital-library.jpg",
                 "description" : "The Knowledge Hub is a transformative online library designed to empower township schools with an invaluable resource for education and personal growth. This capstone project, a result of dedicated effort and passion, leverages modern technology to bridge educational gaps. The frontend is constructed using Vue.js, while the backend API is powered by Node.js, all seamlessly integrated with a robust MySQL database. The Knowledge Hub is a beacon of hope for students in township schools, offering a wide range of educational materials and resources. It's a platform that provides access to a diverse array of books, research materials, and digital learning tools, opening up new opportunities for learning and personal development. This project represents my commitment to education and equality, and I am proud to have created a meaningful resource for those who need it most.",
-                "netlify": "knowledgehub-d9b27.firebaseapp.com",
+                "netlify": "knowledgehub-d9b27.web.app",
                 "github" : "https://github.com/24689-commits/CAPSTONE_P.git"
         }
 ],
