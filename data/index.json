@@ -152,18 +152,7 @@
                 "id": 7,
                 "title": "Nodejs",
                 "image": "https://i.postimg.cc/xdVrQM82/nodejs-development-services-removebg-preview.png",
-                "description" : "I have gained valuable experience with Node.js, a popular runtime environment for JavaScript. My journey with Node.js, although relatively short, has been incredibly enlightening, allowing me to harness its power for server-side development. Over the course of a few months, I've delved into the core concepts and functionalities that Node.js offers.
-
-Node.js has empowered me to build efficient and scalable server-side applications. I've become proficient in utilizing Node.js to create server-side APIs, manage databases, and handle asynchronous operations seamlessly. My understanding of event-driven programming and the non-blocking I/O model has grown, enabling me to develop high-performance applications.
-
-In my time working with Node.js, I've explored packages and libraries from the Node Package Manager (NPM) to streamline development and add valuable features to my projects. I've also become well-versed in using Express.js, a popular web application framework, to simplify the process of building robust APIs and web services.
-
-In summary, despite my limited experience of a few months, I've acquired a solid foundation in Node.js and its core principles. I can effectively leverage Node.js to create server-side applications, handle asynchronous operations, and build RESTful APIs. With a strong commitment to ongoing learning, I am eager to further enhance my Node.js skills and explore advanced concepts to create even more powerful and feature-rich applications.
-
-
-
-
-"
+                "description" : "I have gained valuable experience with Node.js, a popular runtime environment for JavaScript. My journey with Node.js, although relatively short, has been incredibly enlightening, allowing me to harness its power for server-side development. Over the course of a few months, I've delved into the core concepts and functionalities that Node.js offers. Node.js has empowered me to build efficient and scalable server-side applications. I've become proficient in utilizing Node.js to create server-side APIs, manage databases, and handle asynchronous operations seamlessly. My understanding of event-driven programming and the non-blocking I/O model has grown, enabling me to develop high-performance applications. In my time working with Node.js, I've explored packages and libraries from the Node Package Manager (NPM) to streamline development and add valuable features to my projects. I've also become well-versed in using Express.js, a popular web application framework, to simplify the process of building robust APIs and web services.Despite my limited experience of a few months, I've acquired a solid foundation in Node.js and its core principles. I can effectively leverage Node.js to create server-side applications, handle asynchronous operations, and build RESTful APIs. With a strong commitment to ongoing learning, I am eager to further enhance my Node.js skills and explore advanced concepts to create even more powerful and feature-rich applications."
     }
     ],
         "Education" : [
