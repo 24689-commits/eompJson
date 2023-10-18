@@ -93,6 +93,22 @@
                 "description" : "Introducing my first school project - A Bootstrap Portfolio that showcases my skills and achievements. This project was designed to demonstrate my understanding of web development and showcase my creativity. With a clean and modern design, my Bootstrap Portfolio offers a visually appealing and user-friendly experience. The responsive layout ensures that the website looks great on any device, from desktops to mobile devices. The portfolio features different pages, including an 'About Me' page where visitors can learn more about my education and interests. It also includes a project page where I highlight two of my notable projects. Each project is presented with engaging visuals. Furthermore, the portfolio showcases my skills and technical proficiencies. This section provides an overview of the programming languages, frameworks, and tools that I have experience with. It gives potential clients or employers insight into my capabilities and areas of expertise. To facilitate communication and collaboration, the portfolio includes a contact form. Visitors can easily reach out to me for inquiries, collaboration opportunities, or any other questions they may have. As my first school project, this Bootstrap Portfolio demonstrates my ability to create a visually appealing and functional website. It reflects my dedication to learning and improving my web development skills. Take a look at my Bootstrap Portfolio and explore my projects and achievements. It's an exciting glimpse into my journey as a web developer and showcases the progress I have made.",
                 "netlify": "https://papaya-parfait-a9c054.netlify.app",
                 "github" : "https://github.com/Aphelele2/bootstrap_portfolio.git"
+        },
+       {
+                "id": 7,
+                "title": "Dazzling Jewels",
+                "image": "https://i.postimg.cc/Rh9qJkqP/1655274501-Dazzing-Jewels-logo.png",
+                "description" : "Dazzling Jewels is a meticulously crafted premium jewelry store project that my colleague and I have poured our hearts into. This exquisite online boutique showcases a stunning collection of fine jewelry that's designed to captivate and inspire. We've harnessed the power of cutting-edge technologies, including Vue.js, Node.js, and MySQL, to create a seamless and immersive shopping experience. From elegant diamond necklaces to handcrafted gemstone rings, "Dazzling Jewels" offers a curated selection of the most luxurious pieces, making it a go-to destination for jewelry enthusiasts. This project holds great importance to us, reflecting our dedication to merging technology with artistry in the world of jewelry, and we can't wait to share it with you.",
+                "netlify": "https://dj-eomp.web.app/",
+                "github" : "https://github.com/24689-commits/Dazzling_Jewels.git"
+        },
+       {
+                "id": 8,
+                "title": "The Knowlegde Hub",
+                "image": "https://i.postimg.cc/y6FLq0KB/5-Education-friendly-Impact-of-digital-library.jpg",
+                "description" : "The Knowledge Hub is a transformative online library designed to empower township schools with an invaluable resource for education and personal growth. This capstone project, a result of dedicated effort and passion, leverages modern technology to bridge educational gaps. The frontend is constructed using Vue.js, while the backend API is powered by Node.js, all seamlessly integrated with a robust MySQL database. "The Knowledge Hub" is a beacon of hope for students in township schools, offering a wide range of educational materials and resources. It's a platform that provides access to a diverse array of books, research materials, and digital learning tools, opening up new opportunities for learning and personal development. This project represents my commitment to education and equality, and I am proud to have created a meaningful resource for those who need it most.",
+                "netlify": "https://papaya-parfait-a9c054.netlify.app",
+                "github" : "https://github.com/Aphelele2/bootstrap_portfolio.git"
         }
 ],
     "skills" : [
@@ -131,6 +147,23 @@
                 "title": "SQL",
                 "image": "https://i.postimg.cc/P5Bv52QT/istockphoto-868618032-612x612-removebg-preview.png",
                 "description" : "I have a basic understanding of SQL that I acquired during my high school years through Delphi programming. While my experience with SQL is limited to the fundamentals, I have grasped the core concepts necessary for database management and manipulation. With my knowledge of SQL basics, I can effectively perform essential database operations, such as creating tables, inserting data, retrieving information with SELECT queries, updating records, and deleting data. I am familiar with common SQL statements, such as SELECT, INSERT, UPDATE, DELETE, and JOIN, which allow me to interact with relational databases. Using SQL, I can design and execute queries to extract specific data from databases, apply filters and sorting criteria, and aggregate information using functions like COUNT, SUM, AVG, and GROUP BY. I am also proficient in using basic clauses like WHERE and ORDER BY to refine query results. While my SQL skills are in their early stages, I am eager to expand my knowledge and tackle more advanced topics. This includes learning about advanced querying techniques, data modeling, normalization, database optimization, and working with more complex SQL statements. With my foundational understanding of SQL, I am equipped to handle basic database management tasks and work with relational databases. I am committed to further developing my SQL skills to become proficient in designing and optimizing efficient database solutions. In summary, my experience with SQL is rooted in the basics learned through Delphi programming during my high school education. I possess the necessary skills to perform common database operations, construct queries, and retrieve data using SQL. I look forward to expanding my SQL knowledge and exploring more advanced concepts in database management and optimization."
+    },
+          {
+                "id": 7,
+                "title": "Nodejs",
+                "image": "https://i.postimg.cc/xdVrQM82/nodejs-development-services-removebg-preview.png",
+                "description" : "I have gained valuable experience with Node.js, a popular runtime environment for JavaScript. My journey with Node.js, although relatively short, has been incredibly enlightening, allowing me to harness its power for server-side development. Over the course of a few months, I've delved into the core concepts and functionalities that Node.js offers.
+
+Node.js has empowered me to build efficient and scalable server-side applications. I've become proficient in utilizing Node.js to create server-side APIs, manage databases, and handle asynchronous operations seamlessly. My understanding of event-driven programming and the non-blocking I/O model has grown, enabling me to develop high-performance applications.
+
+In my time working with Node.js, I've explored packages and libraries from the Node Package Manager (NPM) to streamline development and add valuable features to my projects. I've also become well-versed in using Express.js, a popular web application framework, to simplify the process of building robust APIs and web services.
+
+In summary, despite my limited experience of a few months, I've acquired a solid foundation in Node.js and its core principles. I can effectively leverage Node.js to create server-side applications, handle asynchronous operations, and build RESTful APIs. With a strong commitment to ongoing learning, I am eager to further enhance my Node.js skills and explore advanced concepts to create even more powerful and feature-rich applications.
+
+
+
+
+"
     }
     ],
         "Education" : [
